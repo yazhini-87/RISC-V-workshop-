@@ -31,7 +31,7 @@
 ## RV_D1SK1 – Lab Work: Setting Up & Coding with the RISC-V Toolchain
 
 ### RV_D1SK2_L2 – Writing a Program to Sum Numbers from 1 to N
-![images/Screenshot from 2025-05-02 16-57-46.png]()
+![images/Screenshot from 2025-05-02 16-57-46.png](https://github.com/yazhini-87/RISC-V-workshop-/blob/85f504f362a11a540f0f54932d22bce32e112dfb/images/Screenshot%20from%202025-05-02%2016-51-16.png)
 
 
 
