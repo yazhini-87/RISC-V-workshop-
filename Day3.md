@@ -46,4 +46,31 @@
 #### Counter 
 ![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/3e8177d4268d7855540e64930fd323019fbe0d4b/images/Screenshot%202025-05-09%20213251.png)
 
+## RV Day 3 - Digital Logic with TL-Verilog and Makerchip
+### RV_D3SK3_L1_Pipelined Logic And Re-Timing
+- pipelining
+![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/efe1569d76064334be382ce0181f8d8bc1d4bcbe/images/Screenshot%202025-05-09%20224230.png)
+
+---
+### RV_D3SK3_L2_Pipeline Logic Advantages And Demo In Platform
+![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/654a9dd22fc7723e8b4cf3e8fe962a55ef1bb6db/images/Screenshot%202025-05-09%20223830.png)
+
+---
+### RV_D3SK3_L3_Lab On Error Conditions Within Computation Pipeling
+- Identifiers and Types:
+  - Symbol prefix - $
+  - First token should have two alpha characters.
+---
+## RV-D3SK4 - Validity
+### RV_D3SK4_L1_Introduction To Validity And Its Advantages
+- Validity provides
+  1. Easier Debug
+  2. Cleaner design
+  3. Better error checking
+  4. Automated clock gating
+---
+ **validity conditions**
+ ![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/efe1569d76064334be382ce0181f8d8bc1d4bcbe/images/Screenshot%202025-05-09%20232601.png)
+ 
+
     
