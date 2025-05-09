@@ -28,16 +28,11 @@
 
 ---
 
-## RV_D1SK2 – Lab Work: Setting Up & Coding with the RISC-V Toolchain
+## RV_D1SK1 – Lab Work: Setting Up & Coding with the RISC-V Toolchain
 
-### RV_D1SK2_L1 – Writing a Program to Sum Numbers from 1 to N
-- Implemented a simple **C program** to calculate the sum of numbers from 1 to N
-- Compiled the code using the **RISC-V GNU Toolchain**
-- Observed how the compiler translates C code into RISC-V Assembly
-- Tools Used:
-  - `riscv64-unknown-elf-gcc`
-  - RARS Simulator
-  - SPIKE ISA Simulator
+### RV_D1SK2_L2 – Writing a Program to Sum Numbers from 1 to N
+
+
 
 ---
 
