@@ -43,3 +43,22 @@
 ---
 
 ## RV-D2SK2 - Lab work using ABI function calls
+### RV_D2SK2_L1_Study New Algorithm For Sum 1 to N Using ASM
+- algorithm of 1to9_custom in RISC-V 64
+  ![image](https://github.com/yazhini-87/RISC-V-workshop-/blob/9d2667d4891e946a1053cd477b11dbc889a9fbf7/images/Screenshot%202025-05-09%20201427.png)
+
+---
+### RV_D2SK2_L2_Review ASM Function Call
+ - count 1 to 9 code and its load
+   ![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/9d2667d4891e946a1053cd477b11dbc889a9fbf7/images/Screenshot%20from%202025-05-09%2019-53-07.png)
+
+---
+### RV_D2SK2_L3_Simulate New C Program With Function Call
+ - compile the files using RISC-V
+   ![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/9d2667d4891e946a1053cd477b11dbc889a9fbf7/images/Screenshot%20from%202025-05-09%2019-53-18.png)
+- instruction set
+  ![m](https://github.com/yazhini-87/RISC-V-workshop-/blob/9d2667d4891e946a1053cd477b11dbc889a9fbf7/images/Screenshot%20from%202025-05-09%2020-04-16.png)
+
+---
+## RV-D2SK3 - Basic verification flow using iverilog
+
