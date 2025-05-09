@@ -39,11 +39,6 @@
 ![images/Screenshot from 2025-05-09 11-10-43.png](https://github.com/yazhini-87/RISC-V-workshop-/blob/297b49b1c6583e0625a41ac011f2140ac1293071/images/Screenshot%20from%202025-05-09%2011-10-43.png)
 ![images/Screenshot from 2025-05-09 11-10-55.png](https://github.com/yazhini-87/RISC-V-workshop-/blob/297b49b1c6583e0625a41ac011f2140ac1293071/images/Screenshot%20from%202025-05-09%2011-10-55.png)
 
-**RV_D1SK2_L3_Spike Simulation And Debug**
-
-
-
-
 
 ---
 
